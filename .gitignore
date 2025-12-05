@@ -1,5 +1,4 @@
 # yii console commands
-/yii
 /yii_test
 /yii_test.bat
 
@@ -49,15 +48,9 @@ phpunit.phar
 /backend/web/index.php
 /backend/web/index-test.php
 /backend/web/robots.txt
-/yii.bat
-/.bowerrc
 /docker-compose.yml
 /requirements.php
 /composer.lock
-/init
 /LICENSE.md
 /Vagrantfile
-/composer.json
 /codeception.yml
-/init.bat
-/README.md
